@@ -1,0 +1,173 @@
+#title {
+  background-color: #ff4c68;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: white;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+
+}
+
+
+
+body {
+  font-family: "Montserrat";
+}
+
+
+/* navigation bar */
+.navbar {
+  padding: 0 0 3rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: Montserrat;
+}
+
+/* download buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+
+
+
+.title-img {
+  width: 60%;
+  transform: rotate(14deg);
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.selling-prop-logos {
+  color: #ef8172;
+  padding-bottom: 20px;
+}
+
+i:hover {
+  color: #ff4c68;
+}
+
+.col-lg-4 {
+  text-align: center;
+
+}
+
+
+/* features */
+
+#features {
+  margin: 7% 15%;
+  background-color: white;
+  display: block;
+  position: relative;
+}
+
+.selling-prop-texts {
+  color: #8f8f8f;
+  text-align: center;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 13%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+
+@media (max-width: 1000px) {#title {
+  text-align: center;}
+  .title-img {margin-top: 75px; transform: rotate(0deg);}
+}
+
+
+/* Sección CTA */
+
+#cta {
+background-color: #ff4c68 ;
+padding-top: 5%;
+padding-bottom: 2%;
+text-align: center;
+
+}
+
+.cta-text {
+   font-family: Montserrat;
+   color: white;
+   font-weight: bold;
+   font-size: 3rem;
+  }
+
+
+/* footer */
+
+#footer {
+  background-color: #fff;
+  padding-top: 3%;
+  text-align: center;
+}
+
+.iconi-footer { margin-bottom: : 0}
+
+.iconito { margin-right: 15px;}
